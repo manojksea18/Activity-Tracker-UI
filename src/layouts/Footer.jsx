@@ -18,7 +18,7 @@ const Footer = () => {
           </span>
         </div>
 
-        <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <ul className="nav col-md-4 justify-content-end d-flex">
           <li className="ms-3">
             <a className="text-body-secondary" href="#">
               <FaGithubAlt />

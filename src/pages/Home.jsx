@@ -3,8 +3,8 @@ import Input from "../components/Input";
 
 const Home = () => {
   return (
-    <div className="container">
-      <div className="row mt-2">
+    <div className="container ">
+      <div className="row mt-2 ">
         <h1 className="text-center">Activity Tracker</h1>
       </div>
       <div className="row">

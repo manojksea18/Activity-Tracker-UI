@@ -1,4 +1,4 @@
-import "./App.css";
+// import "./App.css";
 import Footer from "./layouts/Footer";
 import Home from "./pages/Home";
 
